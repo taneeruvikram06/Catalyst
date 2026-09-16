@@ -1,7 +1,8 @@
 # Catalyst
-TEAM LEAD: TANERRU VIKRAM - AI/ML ENGINEER
-TEAM MEMBERS:
-1:CH.REVANTH - GENERATIVE AI ENGINEER/BACKEND DEVELOPER.
-2:G.PRAVALIKA - SECURITY ANALYST
-3:B.PRADEEP - SECURITY ANALYST
-
+                           TEAM MEMBERS:                       
+ NAME                            ROLL NUMBER             JOB ROLE
+TANERRU VIKRAM(TEAM LEAD)        246F1A6237           AI/ML ENGINEER.
+CH.REVANTH                      246F1A6243            BACKEND DEVELOPER.
+G.PRAVALIKA                     246F1A6212            SECURITY ANALYST.
+B.PRADEEP                        246F1A6204           SECURITY ANALYST.
+K.SRINADH                        246F1A62016            SOC
